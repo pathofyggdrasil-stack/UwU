@@ -1,0 +1,57 @@
+{
+  "mod_elements": [
+    {
+      "name": "BigPoo",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_poo",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/uwu/painting_variant/big_poo.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "PAINTING_VARIANTS:minecraft:placeable": [
+      "~BigPoo@CUSTOM:BigPoo"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "painting.uwu.big_poo.title": "Big Poo",
+      "painting.uwu.big_poo.author": "BigPoo"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/fr/emilia/uwu/UwuMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "uwu",
+    "modName": "UwU",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "fr.emilia.uwu"
+  },
+  "mcreatorVersion": 202600233518
+}
