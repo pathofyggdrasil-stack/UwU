@@ -52,8 +52,8 @@
   "sound_elements": [],
   "tag_elements": {
     "PAINTING_VARIANTS:minecraft:placeable": [
-      "~BigPoo@CUSTOM:BigPoo",
-      "~VeryBigPoo@CUSTOM:VeryBigPoo"
+      "~VeryBigPoo@CUSTOM:VeryBigPoo",
+      "~BigPoo@CUSTOM:BigPoo"
     ]
   },
   "tab_element_order": {},
