@@ -21,6 +21,9 @@ Specific tool used for :
  - leaf processing
  - ore harvesting
 
+Dimebag Guitar.
+guitar amp
+
 Regrowing/renewing Ore source/veines
 
 tree bark and more use

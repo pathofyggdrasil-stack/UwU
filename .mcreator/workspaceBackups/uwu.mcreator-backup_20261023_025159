@@ -36,6 +36,16 @@
           "src/main/resources/data/uwu/painting_variant/very_big_poo.json"
         ]
       }
+    },
+    {
+      "name": "Emiliastab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emiliastab",
+      "metadata": {
+        "files": []
+      }
     }
   ],
   "variable_elements": [],
@@ -51,9 +61,10 @@
     "en_us": {
       "painting.uwu.big_poo.title": "Big Poo",
       "painting.uwu.big_poo.author": "BigPoo",
-      "item.uwu.big_pooitem": "Big Pooitem",
+      "item.uwu.big_pooitem": "BigPooItem",
       "painting.uwu.very_big_poo.author": "BigPoo",
-      "painting.uwu.very_big_poo.title": "Big Poo"
+      "painting.uwu.very_big_poo.title": "Very Big Poo",
+      "item_group.uwu.emiliastab": "Emiliastab"
     }
   },
   "metadata": {
@@ -61,6 +72,7 @@
       "src/main/java/fr/emilia/uwu/init/UwuModItems.java",
       "src/main/resources/pack.mcmeta",
       "src/main/java/fr/emilia/uwu/UwuMod.java",
+      "src/main/java/fr/emilia/uwu/init/UwuModTabs.java",
       "src/main/resources/META-INF/neoforge.mods.toml"
     ]
   },
